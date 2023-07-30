@@ -1,0 +1,26 @@
+/* définir la police 
+@font-face {
+    font-family: Starjedi;
+    src: url(Death_Star.otf);
+  }
+*/
+
+.theme--dark.v-navigation-drawer {
+    background-color: rgb(130, 221, 250, 0.2);
+}
+
+.container pa-0 pb-6 {
+    color: #48443e !important;
+    caret-color: var(--v-warning-base) !important;
+}
+.v-toolbar__title {
+  color: ##ffca4e;
+  font-size: 1rem;
+  line-height: 1.5;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.theme--dark.v-sheet {
+  color: #ffca4e;
+   }
