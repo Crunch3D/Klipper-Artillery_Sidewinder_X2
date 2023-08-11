@@ -17,6 +17,7 @@ Le dépôt contient une procedure complette d'installation de Klipper sur Btt Pi
 
 ## Mises à jour :
 
+- Ajout tutoriel configuration/utilisation Adxl345
 - Ajout de la version en anglais des tutoriels
 - Modifications du fichier README.md
 
@@ -39,6 +40,7 @@ The repository contains a complete installation procedure for Klipper on Btt Pi 
 - 
 ## Updates :
 
+- Added Adxl345 configuration/use tutorial
 - Added English version of tutorials
 - Changes to README.md file
   
